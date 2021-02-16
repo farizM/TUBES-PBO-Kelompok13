@@ -10,7 +10,7 @@ Pramudya Adi W
 
 diagram 
 
-![WhatsApp Image 2021-02-16 at 16 48 39](https://user-images.githubusercontent.com/25223937/108048043-28098b80-7079-11eb-98c6-35618949440a.jpeg)
+![fix](https://user-images.githubusercontent.com/25223937/108061286-aa4e7b80-708a-11eb-94fc-f46ab3e9ffb7.PNG)
 
 
 file yang digunakan adalah file 
